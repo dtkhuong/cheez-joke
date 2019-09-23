@@ -1,0 +1,9 @@
+.Joke > p {
+  display: inline-block;
+}
+
+.Joke > .score {
+  margin: 0 1em;
+  border: 1px solid black;
+  padding: 2px;
+}
